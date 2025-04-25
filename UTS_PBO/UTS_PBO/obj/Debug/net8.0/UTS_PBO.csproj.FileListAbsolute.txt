@@ -1,0 +1,4 @@
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\kumpulan _NET\PBO\UTS_PBO\UTS_PBO\obj\Debug\net8.0\UTS_PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\kumpulan _NET\PBO\UTS_PBO\UTS_PBO\obj\Debug\net8.0\UTS_PBO.AssemblyInfoInputs.cache
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\kumpulan _NET\PBO\UTS_PBO\UTS_PBO\obj\Debug\net8.0\UTS_PBO.AssemblyInfo.cs
+C:\Users\RaihanRamdhani\OneDrive\Dokumen\TUGAS KULIAH\kumpulan _NET\PBO\UTS_PBO\UTS_PBO\obj\Debug\net8.0\UTS_PBO.csproj.CoreCompileInputs.cache
