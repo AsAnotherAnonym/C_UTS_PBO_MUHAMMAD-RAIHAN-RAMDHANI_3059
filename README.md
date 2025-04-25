@@ -1,0 +1,1 @@
+angkat tangan mas😭
